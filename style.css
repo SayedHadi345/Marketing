@@ -54,7 +54,7 @@ section {
   margin-bottom: 1rem;
 }
 
-.services li img, .why-choose li img {
+img {
   width: 25px;
   height: 25px;
   margin-right: 10px;
