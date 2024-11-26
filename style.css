@@ -51,4 +51,11 @@ section {
 .services li, .why-choose li {
   display: flex;
   align-items: center;
-  margin-bottom: 1
+  margin-bottom: 1rem;
+}
+
+.services li img, .why-choose li img {
+  width: 50px; /* Adjust the width as needed */
+  height: auto;
+  margin-right: 10px;
+}
