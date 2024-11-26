@@ -55,7 +55,7 @@ section {
 }
 
 .services li img, .why-choose li img {
-  width: 50px; /* Adjust the width as needed */
-  height: auto;
+  width: 25px;
+  height: 25px;
   margin-right: 10px;
 }
