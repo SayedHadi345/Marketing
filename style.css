@@ -43,11 +43,6 @@ section:hover {
   transform: translateY(-5px);
 }
 
-img{
-  width: 20px;
-  height: 20px;
-}
-
 .overview h3 {
   font-size: 1.8em;
   margin-bottom: 10px;
